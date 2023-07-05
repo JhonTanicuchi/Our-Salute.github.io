@@ -1,7 +1,7 @@
 ## Our Salute
 
 <p align="center">
-  <img src="Img/logo_celeste.png" alt="Logo del proyecto" width="200">
+  <img src="Img/logo.png" alt="Logo del proyecto" width="200">
 </p>
 
 Una plataforma en línea que proporciona información sobre diferentes tipos de enfermedades y un test interactivo para determinar el porcentaje de probabilidad de tener una enfermedad en base a los síntomas.
